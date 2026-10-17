@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nehuen233
-- 👀 I’m interested in diseño web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning IA (claude, cursor, codex, etc...)
 - 📫 How to reach me ...
 - 
 
