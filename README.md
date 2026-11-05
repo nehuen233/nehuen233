@@ -13,7 +13,6 @@
 **AI Development Tools**
 - Claude
 - ChatGPT
-- Cursor
 - Antigravity
 
 ### 📂 Featured Projects
